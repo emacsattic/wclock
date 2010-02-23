@@ -100,7 +100,7 @@
 
 ;; Copyright (C) 2007 Ivan Kanis
 ;; Author: Ivan Kanis
-;; $Id: wclock.el 2342 2008-08-02 17:11:48Z ivan $
+;; 
 ;;
 ;; This program is free software ; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
